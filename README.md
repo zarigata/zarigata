@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Zarigata</h1>
 <h3 align="center">A passionate frontend developer from Mordor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarigata&label=Profile%20views&color=0e75b6&style=flat" alt="zarigata" /> </p>
@@ -5,6 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarigata" alt="zarigata" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zorg_ai" target="blank"><img src="https://img.shields.io/twitter/follow/zorg_ai?logo=twitter&style=for-the-badge" alt="zorg_ai" /></a> </p>
+
+- 🌱 I’m currently learning **Unreal**
+
+- 💬 Ask me about **nothing, you dont ask**
+
+- 📫 How to reach me **cpuvalle@gmail.com**
+
+- ⚡ Fun fact **you are not in my tempo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
